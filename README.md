@@ -1,3 +1,5 @@
+Going to try turning this into a gym environment. But we'll make a Cython extension rather than using sockets.
+
 Freeciv
 =======
 
